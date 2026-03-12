@@ -1,2 +1,2 @@
-- Hello this is Junhan Zhang's GitHub Pages
-- I'm currently a graduate student persuing a Master degree in Management in Tongji University!
+Hello this is Junhan Zhang's GitHub
+I'm currently a PhD student in PPGA in Nanyang Technological University
